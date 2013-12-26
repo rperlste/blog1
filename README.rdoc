@@ -1,8 +1,6 @@
-== README
+= Blog1
 
 This is my first complete Rail application.
-
-= Blog1
 
 I have been using Blogger as my platform to demonstrate my knowledge of computer science and software development. It has been a good experience, but it is time to take my knowledge one step further... it is time for me to build an entire website from scratch with Rails.
 
